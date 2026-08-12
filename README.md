@@ -6,7 +6,7 @@ This project demonstrates the design and implementation of a highly available, s
 
 This infrastructure serves as the baseline for deploying secure enterprise applications, relying on a bastion host architecture to manage internal resources safely.
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/architecture.jpeg)
 
 ## Architecture Design
 
